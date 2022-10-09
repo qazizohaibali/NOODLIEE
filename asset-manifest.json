@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8dae1690.css",
+    "main.js": "/static/js/main.6ba60a87.js",
+    "static/js/787.dcc73137.chunk.js": "/static/js/787.dcc73137.chunk.js",
+    "static/media/homebg.png": "/static/media/homebg.6eb0ed897a881bf4943c.png",
+    "static/media/lunch2.jpg": "/static/media/lunch2.20c028188899e021992c.jpg",
+    "static/media/abt4.jpg": "/static/media/abt4.c0c975d8045135ab3fdc.jpg",
+    "static/media/din6.jpg": "/static/media/din6.d10bdf634d245e5d13ef.jpg",
+    "static/media/lunch3.jpg": "/static/media/lunch3.53be1eebcef70f80a605.jpg",
+    "static/media/brk6.jpg": "/static/media/brk6.d0d63d68a1e8c836b967.jpg",
+    "static/media/din2.jpg": "/static/media/din2.82f6c24a8e3d2de4fac5.jpg",
+    "static/media/brk1.jpg": "/static/media/brk1.bf58b4732e3951e53c01.jpg",
+    "static/media/lunch1.jpg": "/static/media/lunch1.e89082b87507ddb4f8b2.jpg",
+    "static/media/din1.jpg": "/static/media/din1.ff92fda1a77da2019abe.jpg",
+    "static/media/lunch6.jpg": "/static/media/lunch6.6dc4dd12e3a11615df6e.jpg",
+    "static/media/lunch4.jpg": "/static/media/lunch4.d214792c5c984a117add.jpg",
+    "static/media/abt3.jpg": "/static/media/abt3.e42a7759f6724b91aa8f.jpg",
+    "static/media/lunch5.jpg": "/static/media/lunch5.cf0ed741b15cfc05aef7.jpg",
+    "static/media/brk5.jpg": "/static/media/brk5.573efb988261b07683d6.jpg",
+    "static/media/din3.jpg": "/static/media/din3.e622b0457acf4f777ba7.jpg",
+    "static/media/abt2.jpg": "/static/media/abt2.c991ee095c22da34a022.jpg",
+    "static/media/brk3.jpg": "/static/media/brk3.8a4e06234d560e3c7365.jpg",
+    "static/media/brk4.jpg": "/static/media/brk4.c67d83e697c665758485.jpg",
+    "static/media/brk2.jpg": "/static/media/brk2.6dcfa2391b5a65365465.jpg",
+    "static/media/din4.jpg": "/static/media/din4.e0f0b1559fbc8fdc70c4.jpg",
+    "static/media/abt1.jpg": "/static/media/abt1.066d64794e518794f7ac.jpg",
+    "static/media/din5.jpg": "/static/media/din5.415f7cf81bbcfa093c29.jpg",
+    "static/media/chef4.jpg": "/static/media/chef4.f728a531be269b3d471d.jpg",
+    "static/media/chef3.jpg": "/static/media/chef3.d917072105ceb2beb47e.jpg",
+    "static/media/chef2.jpg": "/static/media/chef2.a052551d15a289c07a6f.jpg",
+    "static/media/chef1.jpg": "/static/media/chef1.92658d94c39d7c348ed6.jpg",
+    "index.html": "/index.html",
+    "main.8dae1690.css.map": "/static/css/main.8dae1690.css.map",
+    "main.6ba60a87.js.map": "/static/js/main.6ba60a87.js.map",
+    "787.dcc73137.chunk.js.map": "/static/js/787.dcc73137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dae1690.css",
+    "static/js/main.6ba60a87.js"
+  ]
+}
