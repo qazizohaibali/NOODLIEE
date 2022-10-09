@@ -1,0 +1,30 @@
+.card{
+    border: none;
+}
+.icon ,.exp-heading,.chefs-heading{
+    color: #FEA116;
+}
+.my_border{
+   border-left: 0.4rem solid #FEA116 ;
+   /* margin-left: 2%; */
+}
+.exp-heading,.chefs-heading{
+    font-size: 3.5rem;
+    font-weight: 700;
+}  
+.abt_btn{
+    height: 3.6rem;
+    width: 12.5rem;
+    border: 2px solid  #FEA116;
+    /* border-radius: 10px; */
+    background-color:white;
+    font-size: 1.2rem;
+    color: #FEA116;
+    font-weight: 500;
+}
+.abt_btn:hover{
+    background-color:#ff9900 ;
+    color: white;
+  
+        transition: ease-in-out .5s;
+    }

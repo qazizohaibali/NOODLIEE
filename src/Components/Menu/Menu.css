@@ -1,0 +1,42 @@
+/* .my_container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+} */
+.small_card1{
+
+    border-bottom: 1px solid  rgb(205, 200, 200) ;
+  
+}
+/* .small_cardm{
+
+    border-bottom: 1px solid  rgb(205, 200, 200) ;
+} */
+.small_card2{
+
+    border-bottom: 4px solid  #FEA116  ;
+}
+/* .active{
+    border-bottom: 2px solid  #FEA116  ;
+} */
+.para{
+    font-size: 0.8rem;
+    color: rgb(30, 29, 29);
+}
+.h6{
+    font-size: 1rem;
+    font-weight: bold;
+    color: rgb(30, 29, 29);
+}
+   
+a{
+    text-decoration: none;
+}
+.my__text{
+display: flex;
+justify-content: space-between;
+}
+
+.menu_list{
+    border-right: 1px solid #dee2e6;
+}

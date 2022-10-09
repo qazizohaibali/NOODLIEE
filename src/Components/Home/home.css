@@ -1,0 +1,46 @@
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.order_btn{
+    text-decoration: none;
+    border: 2px solid #FEA116;
+    border-radius: 10px;
+    padding: 1% 4%;
+    background-color: transparent;
+    color:#FEA116;
+    font-weight: bold;
+}
+.order_btn:hover{
+    background-color:#FEA116;
+    font-weight: bold;
+    color: white;
+    transition: ease-in 0.4s;
+}
+
+.img-fluid{
+    animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+
+@-webkit-keyframes up-down{
+0%{
+    transform: translateY(10px);
+}
+100%{
+    transform: translateY(-10px);
+}
+}
+@keyframes up-down {
+    0%{
+        transform: translateY(10px);
+    }
+    100%{
+        transform: translateY(-10px);
+    }
+}
+img{
+    text-align: right;
+}

@@ -1,0 +1,10 @@
+.container-fluid{
+    background-color:white;
+}
+a.navbar-brand{
+    margin: 0px 5px;
+    font-size: 1.5rem;
+}
+.navbar-nav{
+    color:white;
+}
