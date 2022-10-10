@@ -51,7 +51,7 @@ const[mystyle3,setMystyle3]=useState("small_card1")
    
     <h4 className='my-4 font_style'>Food Menu</h4>
     <h1 className='font_style2'>MOST POPULAR ITEMS</h1></div>
-   <Router>
+   <Router basename='/NOODLIEE'>
    <div className="my_content d-flex justify-content-center my-3">
     <Link to="breakfast" onClick={border1} className={`d-flex justify-content-center align-items-center px-1 py-0 small_card ${mystyle1}`}>
       <div><FaCoffee style={{color:"#FEA116"}} size="2.5rem"/></div>
@@ -77,7 +77,7 @@ const[mystyle3,setMystyle3]=useState("small_card1")
     </div>
    
     <Routes>
-          <Route path="/breakfast" element={<Breakfast/>}></Route>
+          <Route path="/NOODLIEE" element={<Breakfast/>}></Route>
           <Route path="/lunch" element={<Lunch/>}></Route>
           <Route path="/dinner" element={<Dinner/>}></Route>
           
